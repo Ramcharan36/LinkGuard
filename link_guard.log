@@ -1,0 +1,14 @@
+2025-08-20 01:59:53,105 - INFO - Loaded 0 phishing URLs and 0 legitimate URLs.
+2025-08-20 01:59:53,105 - INFO - Loaded 0 whitelist entries.
+2025-08-20 01:59:53,105 - INFO - Loaded 0 blocklist entries.
+2025-08-20 01:59:53,106 - INFO - Registered auto-start in registry.
+2025-08-20 01:59:53,106 - INFO - Registered http handler in registry.
+2025-08-20 01:59:53,107 - INFO - Registered https handler in registry.
+2025-08-20 01:59:57,544 - INFO - Registration completed successfully.
+2025-08-20 02:00:01,207 - INFO - Loaded 0 phishing URLs and 0 legitimate URLs.
+2025-08-20 02:00:01,207 - INFO - Loaded 0 whitelist entries.
+2025-08-20 02:00:01,208 - INFO - Loaded 0 blocklist entries.
+2025-08-20 02:00:01,208 - INFO - Registered auto-start in registry.
+2025-08-20 02:00:01,208 - INFO - Registered http handler in registry.
+2025-08-20 02:00:01,208 - INFO - Registered https handler in registry.
+2025-08-20 02:00:06,317 - INFO - Registration completed successfully.
